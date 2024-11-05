@@ -1,0 +1,67 @@
+.left-wrap{
+    background-color: #4284F3;
+    width: 60%;
+    height: 99vh;
+}
+
+.Welcome{
+    padding-top: 100px;
+    padding-left: 120px;
+    color: white;
+}
+.onerec{
+    padding-left: 120px;
+    width:300px
+}
+.manage{
+    color: white;
+    padding-left: 130px;
+    
+}
+.lady-doc{
+    padding-left:105px;
+}
+.rel{
+width: 419px;
+height: 58px;
+top: 155px;
+left: 1215px;
+gap: 0px;
+opacity: 0px;
+color: #A6A6A6;
+
+}
+.Email-text{
+    width: 330px;
+    height: 66px;
+    padding: 5px;
+
+
+}
+.Pass-text{
+    width: 330px;
+    height: 66px;
+    padding: 5px;
+    
+
+}
+.Remember-box{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    
+}
+
+.Remember-text{
+   padding: 5px; 
+}
+
+.forgot-text{
+    display: flex;
+    color: #4284F3;
+    margin-left: 210px;
+    padding-top: -30px;
+    
+
+    
+}

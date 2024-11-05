@@ -1,0 +1,16 @@
+.first{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    padding: 20px;
+}
+
+.second{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: brown;
+    width: fit-content;
+    height: 50vh;
+    padding: 20px;
+}

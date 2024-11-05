@@ -1,0 +1,16 @@
+video{
+    width: 200px;
+    height: 500px;
+}
+audio{
+    width: 200px;
+   
+}
+.main{
+    background-image: url('./IMAGES/nature.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+  width: 200px;  
+}
